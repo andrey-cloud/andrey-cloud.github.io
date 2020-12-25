@@ -669,4 +669,14 @@ body{
     .s6_btn{
         margin: 0 auto;
     }
+
+
+    .navmenu_phone{
+        margin-top: 0;
+    }
+
+
+    .navmenu_links{
+        flex-direction: column;
+    }
 }
