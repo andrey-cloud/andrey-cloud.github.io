@@ -463,10 +463,18 @@ body{
     color: #D1A954;
 }
 
+.s6_inputs_cont-inputs{
+    display: flex;
+}
+
 
 @media screen and (max-width: 992px){
     .container{
         width: 80%;
+    }
+
+    .ml30{
+        margin-left: 6vw;
     }
 
     .navmenu{
@@ -553,6 +561,10 @@ body{
 @media screen and (max-width: 768px){
     .container{
         width: 90%;
+    }
+
+    .ml30{
+        margin-left: 6vw;
     }
 
 
