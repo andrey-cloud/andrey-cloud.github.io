@@ -526,10 +526,6 @@ body{
         flex-direction: column-reverse;
     }
 
-    .ml30{
-        margin-left: 0;
-    }
-
 
     .s6_inputs{
         justify-content: space-between;
